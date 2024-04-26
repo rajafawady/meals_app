@@ -21,10 +21,10 @@ To get started with Meals Explorer, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot_20240426_172641.jpg)
-![Screenshot 3](screenshots/Screenshot_20240426_172727.jpg)
-![Screenshot 2](screenshots/Screenshot_20240426_172650.jpg)
-![Screenshot 4](screenshots/Screenshot_20240426_172658.jpg)
-![Screenshot 5](screenshots/Screenshot_20240426_172707.jpg)
-![Screenshot 6](screenshots/Screenshot_20240426_172732.jpg)
+![Screenshot 1](screenshots/Screenshot_20240426_172641.jpg){ width=200px }
+![Screenshot 3](screenshots/Screenshot_20240426_172727.jpg){ width=200px }
+![Screenshot 2](screenshots/Screenshot_20240426_172650.jpg){ width=200px }
+![Screenshot 4](screenshots/Screenshot_20240426_172658.jpg){ width=200px }
+![Screenshot 5](screenshots/Screenshot_20240426_172707.jpg){ width=200px }
+![Screenshot 6](screenshots/Screenshot_20240426_172732.jpg){ width=200px }
 
